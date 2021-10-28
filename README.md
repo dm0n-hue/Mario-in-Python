@@ -1,2 +1,4 @@
 # Mario-in-Python
-Implement a program that prints out a double half-pyramid of a specified height
+This code is a part of CS50's problem set 6 "Mario"
+
+If you'd like to read more about the expectations for this problem, then you can follow their link attached to read more: https://cs50.harvard.edu/x/2021/psets/6/mario/more/
